@@ -1,6 +1,8 @@
 Minecraft Console Client
 ========================
 
+changes: vk bot added
+
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/ORelio/Minecraft-Console-Client?branch=Indev)](https://ci.appveyor.com/project/ORelio/minecraft-console-client)
 
 Minecraft Console Client(MCC) is a lightweight app allowing you to connect to any Minecraft server,
